@@ -1,0 +1,35 @@
+# Artificial Neural Network
+
+### Importing the libraries
+
+## Part 1 - Data Preprocessing
+
+### Encoding categorical data
+
+#Label Encoding the "Gender" column
+
+
+#One Hot Encoding the "Geography" column
+
+### Feature Scaling
+
+### Splitting the dataset into the Training set and Test set
+
+## Part 2 - Building the ANN
+
+### Adding the input layer and the first hidden layer
+
+### Adding the second hidden layer
+
+### Adding the output layer
+
+## Training the ANN
+
+### Training the ANN on the Training set
+
+## Part 4 - Making the predictions and evaluating the model
+
+### Predicting the Test set results
+
+### Making the Confusion Matrix
+
